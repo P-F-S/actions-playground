@@ -4,8 +4,8 @@ on:
   push:
   
 jobs:
-  Checkout:
-    name: Checkout
+  Cria_Artefato:
+    name: Cria_Artefato
     runs-on: ubuntu-latest
     
     steps:
